@@ -1,0 +1,106 @@
+body{
+  background-image:url("background.jpg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size:cover;
+}
+
+.bg {
+  background-color:rgba(0,0,0,0.5);
+  width:50%;
+  margin:auto;
+  border-radius: 5px;
+}
+.bg2{
+  border-radius: 5px;
+  background-color:#7FFF00;
+  margin: 45px;
+  padding:5px;
+  display: block;
+  text-align: center;
+
+}
+h2{
+  position:relative;
+  top:40px;
+  text-align: center;
+  color:#7FFF00;
+}
+img{
+  position:relative;
+  top:60px;
+  margin:0px auto;
+  display: block;
+  text-align: center;
+}
+p{
+  font-size:15px;
+  color: white;
+}
+
+span{
+  color:white
+}
+div>span{
+  margin-left:25px;
+}
+div>p {
+  margin-left:25px;
+}
+
+.w3-progressbar-container{
+  width: 30px;
+  height:30px;
+  background:red;
+}
+.gino{
+  position:relative;
+  bottom: 30px;
+}
+.w3-progressbar{
+  background: orange;
+  width:350px;
+  height: 30px;
+  position:relative;
+  left:30px;
+  bottom:40px;
+  border-radius:5px;
+}
+
+.w3-progressbar-container3{
+  width: 30px;
+  height:30px;
+  background:red;
+}
+.fede{
+  position:relative;
+  bottom: 30px;
+}
+.w3-progressbar3{
+  background: purple;
+  border-radius:5px;
+  width:90px;
+  height: 30px;
+  position:relative;
+  left:30px;
+  bottom:10px;
+}
+
+.w3-progressbar-container2{
+  width: 30px;
+  height:30px;
+  background:red;
+}
+.mike{
+  position:relative;
+  bottom: 30px;
+}
+.w3-progressbar2{
+  border-radius: 5px;
+  background: green;
+  width:120px;
+  height: 30px;
+  position:relative;
+  left:30px;
+  bottom:10px;
+}
